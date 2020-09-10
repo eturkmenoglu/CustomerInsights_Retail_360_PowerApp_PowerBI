@@ -1,0 +1,17 @@
+
+
+
+AverageVisits
+https://customerinsights7storage.blob.core.windows.net/cipowerapp/averagevisit.txt?st=2020-09-09T08%3A39%3A18Z&se=2021-09-10T08%3A39%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=9mD7LayDqtRT7s1zT%2FsA3UOkJ8MALkY9PFjr7M96C%2FE%3D
+
+ChurnRisk
+https://customerinsights7storage.blob.core.windows.net/cipowerapp/churnrisk.txt?st=2020-09-09T08%3A40%3A23Z&se=2021-09-10T08%3A40%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=CKeG74G2hM6ZyIAdBo3eDmhKl619sDxKoOEaeGU%2F6%2BU%3D
+
+CLTV
+https://customerinsights7storage.blob.core.windows.net/cipowerapp/CLTV.txt?st=2020-09-09T08%3A41%3A15Z&se=2021-09-10T08%3A41%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=Ef%2BahpNH9PlasocBzQgx2XXuqb5vSNSffNV4yibHuFY%3D
+
+engagementScore
+https://customerinsights7storage.blob.core.windows.net/cipowerapp/engagementScore.txt?st=2020-09-09T08%3A41%3A26Z&se=2021-09-10T08%3A41%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=PEzMPZLTEoisZaTdhzOlxRB1i0xFSM6dWXSu1hDCVeI%3D
+
+foodinterest
+https://customerinsights7storage.blob.core.windows.net/cipowerapp/foodinterest.txt?st=2020-09-09T08%3A41%3A37Z&se=2021-09-10T08%3A41%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=tUwOGX10Ar1UakFYC8jC3hMigsV9g28MsE9220jp%2BPU%3D
