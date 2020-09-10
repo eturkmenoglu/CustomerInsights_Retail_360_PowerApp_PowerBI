@@ -1,1 +1,5 @@
 # CustomerInsights_Retail_360_PowerApp_PowerBI
+
+https://raw.githubusercontent.com/eturkmenoglu/CustomerInsights_Retail_360_PowerApp_PowerBI/master/Screenshots/PowerApp.png
+
+https://raw.githubusercontent.com/eturkmenoglu/CustomerInsights_Retail_360_PowerApp_PowerBI/master/Screenshots/PowerBI.png
